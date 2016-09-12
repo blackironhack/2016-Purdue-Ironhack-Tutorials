@@ -3,14 +3,20 @@
   <head>
   <title>Making Simple Bar Chart in D3</title>
   <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-  
+
+    <style type="text/css">
+      rect:hover{
+        fill:yellow;
+        
+      }
+    </style>
   </head>
   </body>
   
     <script>
             var w = 300;
             var h = 150;
-            var dataset = [5, 10, 14, 20, 25, 11, 24, 22, 18, 22, 9]
+            var dataset = [5, 10, 14, 20, 25, 11, 24, 22, 18, 22, 9, 18, 18, 6, 2]
             
             var svg = d3.select("body").append("svg")
               .attr("height", h)
@@ -31,6 +37,7 @@
                         else if (d < 5){
                           return "teal";
                       };}
+                    });
             
             
             
