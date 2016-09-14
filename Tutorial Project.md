@@ -2,7 +2,7 @@
 ### Introduction   
 
 
-This is a tutorial project for 2016 Purdue BlackIronhack. *_Please notice that the topic for this tutorial is not the same as the problem statement for BlackIronHack!_*
+This is a tutorial project for 2016 Purdue BlackIronhack. *__Please note that the topic for this tutorial is not the same as the problem statement for BlackIronHack!__*
 
 The demo site for the project is [here](http://rawgit.com/priyankjain/2016-Purdue-Ironhack-Tutorials/master/2016-Purdue-Ironhacks-Tutorial-Project.html). You may check it out as a reference for your own project. 
 
