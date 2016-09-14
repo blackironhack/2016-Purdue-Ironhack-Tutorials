@@ -23,7 +23,7 @@ Imagine you are trying to figure out when and where you can get the cheapest and
 ### Task   
 
 
-Develop a website with a mashup that combines [Open Weather Map Data](http://openweathermap.org/) and [local farmer’s markets data](http://catalog.data.gov/dataset/farmers-markets-2015).   
+Develop a website with a mashup that combines [Climate Data Online](http://www.ncdc.noaa.gov/cdo-web/) and [local farmer’s markets data](http://catalog.data.gov/dataset/farmers-markets-2015).   
 
 You are also encouraged to look at other types of market data such as Walmart, Pay-Less, Aldi, Meijer, etc. to compare regular prices or somehow combine freshness and cheapness – think what would be beneficial to the consumer!   
 
@@ -32,7 +32,7 @@ The website should optimize the consumers’ choice of the most cost-efficient v
 
 ### Mandatory Requirements
 
-+ The application should use the mandatory dataset: Open Weather Map
++ The application should use the mandatory dataset: [Climate Data Online](http://www.ncdc.noaa.gov/cdo-web/)
 + The application should use at least one more dataset from [Data.gov](https://www.data.gov) or [Open Indy Data Portal](http://data.indy.gov/) that were released by the State of Indiana
 + The application should be written in JavaScript language
 + The website should integrate a mashup (A mashup is a web page or application created by combining data or functionality from different sources)
