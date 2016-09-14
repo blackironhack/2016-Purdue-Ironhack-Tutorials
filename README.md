@@ -29,7 +29,7 @@ jQuery is the most widely used Javascript library, using jQuery would greatly sp
 You'll be creating visualizations as part of Purdue Ironhacks, so knowledge of some javascript charting library would be handy.   
 Here are some useful ones:
 + <a href="http://arborjs.org" target="_blank">Arbor.js</a> - A graph visualization library   
-+ <a href="http://d3js.org" target="_blank">D3.js</a> - A library to create interactive graphics and visualizations   
++ <a href="http://d3js.org" target="_blank">D3.js</a> - A library to create interactive graphics and visualizations. For a video tutorial series, you can refer [here](https://www.udemy.com/data-visualize-data-with-d3js-the-easy-way/learn/v4/overview). For credentials, you can login to goldironhack.com 
 + <a href="http://c3js.org" target="_blank">C3.js</a> - A library built on top of D3.js which allows you create charts with few lines of code. <a href="./Charts-with-c3js-tutorial.md" target="_blank">Click here</a> for a quick tutorial on c3.js    
 + <a href="http://sigmajs.org" target="_blank">Sigma.js</a> - Another graph visualization library   
 
@@ -47,7 +47,8 @@ The rules require you to use one mandatory dataset [Climate Data Online](https:/
 
 You'll be required to use Github.com for submitting your code to our system. <a href="Github-Tutorial.md" target="_blank">Here</a> is our tutorial on getting setup with Github.com for this hack. You can learn advanced git <a href="https://www.atlassian.com/git/tutorials/what-is-git" target="_blank">here</a>.   
 
-For Github setup on Windows, [go here](Github-Setup-For-Windows.md)
+For Github setup on Windows, [go here](Github-Setup-For-Windows.md)   
+
 For Github setup on Mac, [go here](Github-Setup-For-Mac.md)
 
 ### Tutorial Project    
