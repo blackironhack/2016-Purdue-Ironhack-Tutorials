@@ -1,7 +1,7 @@
 #2016 Purdue Ironhack Tutorials    
    
 
-Welcome to Purdue Ironhack! This pages aims to introduce you to various technologies that will be required as part of this programming challenge.
+Welcome to BlackIronhack! This pages aims to introduce you to various technologies that will be required as part of this programming challenge.
 
 ### HTML   
 
@@ -29,7 +29,7 @@ jQuery is the most widely used Javascript library, using jQuery would greatly sp
 You'll be creating visualizations as part of Purdue Ironhacks, so knowledge of some javascript charting library would be handy.   
 Here are some useful ones:
 + <a href="http://arborjs.org" target="_blank">Arbor.js</a> - A graph visualization library   
-+ <a href="http://d3js.org" target="_blank">D3.js</a> - A library to create interactive graphics and visualizations. For a video tutorial series, you can refer [here](https://www.udemy.com/data-visualize-data-with-d3js-the-easy-way/learn/v4/overview). For credentials, you can login to goldironhack.com 
++ <a href="http://d3js.org" target="_blank">D3.js</a> - A library to create interactive graphics and visualizations. For a video tutorial series, you can refer [here](https://www.udemy.com/data-visualize-data-with-d3js-the-easy-way/learn/v4/overview). For credentials, you can login to blackironhack.com 
 + <a href="http://c3js.org" target="_blank">C3.js</a> - A library built on top of D3.js which allows you create charts with few lines of code. <a href="./Charts-with-c3js-tutorial.md" target="_blank">Click here</a> for a quick tutorial on c3.js    
 + <a href="http://sigmajs.org" target="_blank">Sigma.js</a> - Another graph visualization library   
 
@@ -53,4 +53,4 @@ For Github setup on Mac, [go here](Github-Setup-For-Mac.md)
 
 ### Tutorial Project    
 
-We have made a complete tutorial project along the lines of the problem statement. You can find the tutorial [here](Tutorial Project.md) and demo [here](http://rawgit.com/priyankjain/2016-Purdue-Ironhack-Tutorials/master/2016-Purdue-Ironhacks-Tutorial-Project.html).
+We have made a complete tutorial project using a different problem statement. You can find the tutorial [here](Tutorial Project.md) and demo [here](http://rawgit.com/priyankjain/2016-Purdue-Ironhack-Tutorials/master/2016-Purdue-Ironhacks-Tutorial-Project.html).
