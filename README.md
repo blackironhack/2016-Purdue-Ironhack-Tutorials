@@ -47,6 +47,9 @@ The rules require you to use one mandatory dataset [Climate Data Online](https:/
 
 You'll be required to use Github.com for submitting your code to our system. <a href="Github-Tutorial.md" target="_blank">Here</a> is our tutorial on getting setup with Github.com for this hack. You can learn advanced git <a href="https://www.atlassian.com/git/tutorials/what-is-git" target="_blank">here</a>.   
 
+For Github setup on Windows, [go here](Github-Setup-For-Windows.md)
+For Github setup on Mac, [go here](Github-Setup-For-Mac.md)
+
 ### Tutorial Project    
 
 We have made a complete tutorial project along the lines of the problem statement. You can find the tutorial [here](Tutorial Project.md) and demo [here](http://rawgit.com/priyankjain/2016-Purdue-Ironhack-Tutorials/master/2016-Purdue-Ironhacks-Tutorial-Project.html).
