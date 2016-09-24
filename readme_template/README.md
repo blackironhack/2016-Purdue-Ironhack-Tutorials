@@ -39,7 +39,6 @@ You should include at least 3 keywords for your project to identify the features
 How can we build and access your project on a Linux/Unix machine if you use external dependencies besides HTML/CSS/Javascript?
 List the dependencies you used, such as python, node.js, etc.
 List the steps we should follow to build the project.
-Your project will be built on Amazon Web Service, EC2, ubuntu 14.01 instance
 
 6. Test Case
 Which browsers did you test your project on? Chrome, IE, Edge, Safari, or Firefox?
